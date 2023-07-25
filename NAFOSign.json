@@ -1,0 +1,29 @@
+{
+
+    "contact": "NAFO @Pingu on r/PlaceFella Discord",
+  
+    "templates": [
+  
+      {
+  
+        "name": "NAFO Sign",
+  
+        "sources": [
+  
+          "https://cdn.discordapp.com/attachments/1133108019723518052/1133391324066877441/NAFOsignmini.png"
+  
+        ],
+  
+        "x": 861,
+  
+        "y": 0
+  
+      }
+  
+    ],
+  
+    "whitelist": [],
+  
+    "blacklist": []
+  
+  }
